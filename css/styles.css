@@ -58,3 +58,35 @@ body {
   .rotated {
       transform: rotate(25deg);
   }
+
+  #features {
+    padding: 7% 15%;
+  }
+
+  
+
+  h3 {
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 1.5rem;
+
+  }
+
+  .p1 {
+      color: #8f8f8f;
+  }
+
+  .fas { 
+      color: #ef8172;
+      margin: 1rem;
+
+  }
+
+  .fas:hover {
+      color: #ff4c68;
+  }
+  
+  .box {
+      text-align: center;
+      padding: 5%;
+
+  }
