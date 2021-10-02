@@ -31,6 +31,10 @@
     padding: 0 18px;
 }
 
+.img-div {
+    position: relative;
+}
+
 .nav-link {
     font-size: 1.2rem;
     font-family: 'Montserrat-light', sans-serif;
@@ -45,90 +49,93 @@ body {
     padding-left: 0;
     padding-right: 0;
   }
-
-  .but {
+ 
+.but {
       margin: 5% 3% 5% 0;
 
   }
 
-  .title-img {
+.title-img {
       width: 40%;
+      position: absolute;
+      
   }
 
-  .rotated {
+.rotated {
       transform: rotate(25deg);
   }
 
-  #features {
+#features {
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+ 
   }
 
-  
-
-  h3 {
+h3 {
     font-family: 'Montserrat-bold', sans-serif;
     font-size: 1.5rem;
 
   }
 
-  .p1 {
+.p1 {
       color: #8f8f8f;
   }
 
-  .fas { 
+.fas { 
       color: #ef8172;
       margin: 1rem;
 
   }
 
-  .fas:hover {
+.fas:hover {
       color: #ff4c68;
   }
   
-  .box {
+.box {
       text-align: center;
       padding: 5%;
 
   }
 
-  #testimonials {
+#testimonials {
       text-align: center;
       background-color: #ff4c68;
       color: #fff;
   }
 
-  h2 {
+h2 {
       font-family: 'Montserrat-bold', sans-serif;
       font-size: 3rem;
       line-height: 1.5;
   }
 
-  .test-img {
+.test-img {
       width: 10%;
       border-radius: 100%;
       margin: 20px;
   }
 
-  #press {
+#press {
     background-color: #ff4c68;
     text-align: center;
     padding-bottom: 3%;
   }
 
-  .img-a {
+.img-a {
       width: 10%;
       margin: 20px 20px 50px;
   }
 
-  .carousel-item {
+.carousel-item {
       padding: 7% 15%;
   }
 
-  #pricing {
+#pricing {
       padding: 100px;
       text-align: center;
   }
 
-  .pricing-colum {
+.pricing-colum {
       padding: 3% 2%;
   }
