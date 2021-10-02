@@ -14,39 +14,29 @@ p {
 }
 
 #title {
-    background-color: #ff4c68;
-    color: #fff;
+  
     text-align: left;
 }
 
 #features {
-  background-color: #fff;
   position: relative;
 
 }
 
 #testimonials {
- 
-  background-color: #ff4c68;
-  color: #fff;
+   background-color: #ef8172 ;
 }
 
 #press {
-  background-color: #ff4c68;
   padding-bottom: 3%;
+  background-color: #ef8172 ;
 }
 
 #pricing {
   padding: 100px;
 }
 
-#cta {
-  background-color: #ff4c68;
-  color: #fff;
-}
-
 #footer {
-  background-color: #fff;
   padding: 5% 15%;
 }
 
@@ -145,6 +135,17 @@ p {
 .i {
   margin: 0.5rem;
   padding-bottom: 1%;
+}
+
+.colored {
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+
+.white {
+  background-color: #fff;
+
 }
 
 @media (max-width: 1028px) {
