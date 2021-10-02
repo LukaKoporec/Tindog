@@ -40,6 +40,10 @@ p {
   padding: 5% 15%;
 }
 
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
 .naslov {
   font-family: 'Montserrat-Black', sans-serif;
   font-size: 4rem;
@@ -49,10 +53,6 @@ p {
 
 .container-fluid {
     padding: 7% 15%;
-}
-
-#title .container-fluid {
-  padding: 3% 15% 7%;
 }
 
 .navbar {
